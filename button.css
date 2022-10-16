@@ -1,0 +1,34 @@
+.btn-pink {
+	text-decoration: none;
+	font-family: 'Contrail One', cursive;
+	background-color: #DA009C;
+	padding:  5px;
+	border-radius: 5px;
+	width: 180px;
+	font-size: 18px;
+	color: white;
+}
+
+.btn-pink:hover {
+	background-color: #FDF851;
+	color: #14110F;
+}
+
+
+.btn-yellow {
+	color: #14110F;
+	background-color: white;
+	padding:  5px;
+	border-radius: 5px;
+	width: 180px;
+	text-decoration: none;
+}
+
+.btn-yellow:hover {
+	background-color: #FDF851;
+	color: #14110F;
+}
+
+.btn-yellow a{
+	text-decoration: none;
+}
