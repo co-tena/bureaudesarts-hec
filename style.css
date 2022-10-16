@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Contrail+One&family=Faustina:wght@400;500;600;700&family=Poppins:wght@500&display=swap');
 
-@import url('components/container.css');
-@import url('components/banner.css');
-@import url('components/avatar.css');
-@import url('components/button.css');
-@import url('components/header.css');
-@import url('components/card.css');
-@import url('components/section.css');
+@import url('container.css');
+@import url('banner.css');
+@import url('avatar.css');
+@import url('button.css');
+@import url('header.css');
+@import url('card.css');
+@import url('section.css');
 
 body {
 	font-family: 'Poppins', sans-serif;
